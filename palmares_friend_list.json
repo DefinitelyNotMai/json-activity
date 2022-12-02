@@ -1,0 +1,36 @@
+[
+    {
+        "First Name" : "Neil Francis",
+        "Last Name" : "Palmares",
+        "Age" : 22,
+        "Address" : "Janiuay, Iloilo",
+        "Contact Number" : "09123456789",
+        "friend-list":
+        [
+            {
+                "Name": "Marco Bhelmovitz",
+                "Age": 22,
+                "Address": "Mandurriauo, Iloilo",
+                "Likes": ["Solving Puzzles, and Riddles", "Playing Video Games", "Going Camping", "Long Drives"],
+                "Dislikes": ["Frogs or Slimy/Moist Animals", "Unhygienic/Unsanitary Acts"],
+                "Feeling": "Extremely pressured"
+            },
+            {
+                "Name": "Drewe Villalobos",
+                "Age": 22,
+                "Address": "Janiuay, Iloilo",
+                "Likes": ["Working out", "Eating out with friends", "Having deep talks with close friends", "Being alone in my own thoughts"],
+                "Dislikes": ["Traffic", "Nagging People", "Incompetence", "Cheaters", "Narcissists"],
+                "Feeling": "Ecstatic"
+            },
+            {
+                "Name": "Clementine Fandagani",
+                "Age": 23,
+                "Address": "Miag-ao, Iloilo",
+                "Likes": "Chess",
+                "Dislikes": "Beef Dishes",
+                "Feeling": "Very tired"
+            }
+        ]
+    }
+]
